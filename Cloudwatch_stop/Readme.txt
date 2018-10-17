@@ -1,0 +1,3 @@
+alarm_name.pyをlambda_function.pyと同一のフォルダに置く
+
+alarm_name.pyに停止するアラームを書く。
